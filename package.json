@@ -1,0 +1,21 @@
+{
+  "name": "solarized-mocha",
+  "displayName": "Solarized Mocha",
+  "description": "Solarized Mocha Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Mocha",
+        "uiTheme": "vs",
+        "path": "./themes/Solarized Mocha-color-theme.json"
+      }
+    ]
+  }
+}
