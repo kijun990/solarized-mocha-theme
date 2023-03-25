@@ -3,6 +3,7 @@
   "displayName": "Solarized Mocha",
   "description": "Solarized Mocha Theme!",
   "version": "0.0.1",
+  "publisher": "mewpoong",
   "engines": {
     "vscode": "^1.76.0"
   },
